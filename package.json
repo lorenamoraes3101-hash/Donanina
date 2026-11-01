@@ -1,0 +1,10 @@
+{
+  "name": "salgados-dona-nina",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site oficial da Salgados Dona Nina (Itaquera e Guaianases). Site estático em HTML, CSS e JavaScript.",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "start": "npx --yes serve . -l 3000"
+  }
+}
